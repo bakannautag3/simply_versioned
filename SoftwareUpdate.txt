@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add integrations/gradio Docs page (#7935)
